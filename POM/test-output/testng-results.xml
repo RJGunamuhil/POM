@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-30T09:50:23 IST" name="Default suite" finished-at="2023-09-30T09:50:44 IST" duration-ms="21424">
+    <groups>
+    </groups>
+    <test started-at="2023-09-30T09:50:23 IST" name="Default test" finished-at="2023-09-30T09:50:44 IST" duration-ms="21424">
+      <class name="pageobject.LoginTestcase">
+        <test-method signature="loginphppage()[pri:0, instance:pageobject.LoginTestcase@41a0aa7d]" started-at="2023-09-30T09:50:23 IST" name="loginphppage" finished-at="2023-09-30T09:50:44 IST" duration-ms="21147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginphppage -->
+      </class> <!-- pageobject.LoginTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
